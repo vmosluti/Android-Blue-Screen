@@ -1,0 +1,4 @@
+#v2
+1
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/android-blue-screen/app/src/main/AndroidManifest.xml	0	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/android-blue-screen/app/src/main/kotlin/luti/errorscreen/MainActivity.kt	25	141	text

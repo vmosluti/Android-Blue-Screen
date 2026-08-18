@@ -1,0 +1,7 @@
+ctx	eebca5ffd77f51157b2a7a2793ad2782
+s	/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/android-blue-screen/app/src/main/kotlin/luti/errorscreen/MainActivity.kt	b399cff946950bb6ca4746bf82babf1e
+o	/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/android-blue-screen/app/src/main/kotlin/luti/errorscreen/MainActivity.kt	luti/errorscreen/MainActivity.class,luti/errorscreen/ComposableSingletons$MainActivityKt.class,luti/errorscreen/MainActivityKt.class,luti/errorscreen/MainActivityKt$BlueScreenOfDeath$1$1.class
+a	luti/errorscreen/ComposableSingletons$MainActivityKt.class	ee14406d8fca6ded8d506b9b6eaeefe9
+a	luti/errorscreen/MainActivity.class	f354c1d95a58c6b642c15311bd9943e1
+a	luti/errorscreen/MainActivityKt$BlueScreenOfDeath$1$1.class	729e8b6f5b8dfb6171cd534bacbffb8d
+a	luti/errorscreen/MainActivityKt.class	5078e32accee1ad222d554ca21a091e8
